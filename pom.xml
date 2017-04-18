@@ -13,6 +13,8 @@
         <module>java-test</module>
         <module>elastic-search</module>
         <module>first-thrift</module>
+        <module>fastjson-test</module>
+        <module>leetcode</module>
     </modules>
 
     <build>

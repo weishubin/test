@@ -1,0 +1,16 @@
+[INFO] Scanning for projects...
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building fastjson-test 1.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.1:tree (default-cli) @ fastjson-test ---
+[INFO] com.weishubin.test:fastjson-test:jar:1.0-SNAPSHOT
+[INFO] \- com.alibaba:fastjson:jar:1.1.46.sec01:compile
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 0.596s
+[INFO] Finished at: Wed Mar 22 12:52:58 CST 2017
+[INFO] Final Memory: 8M/245M
+[INFO] ------------------------------------------------------------------------
